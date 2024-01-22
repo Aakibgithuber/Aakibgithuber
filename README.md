@@ -1,4 +1,4 @@
-![logo](![image](https://github.com/Aakibgithuber/Aakibgithuber/assets/101191261/1a12f6f5-f7be-46e4-8176-de2f4c806a27))
+![logo](https://github.com/Aakibgithuber/Aakibgithuber/blob/main/1705570243087.jpeg)
 
 <h1 align="center">Hi 👋, Myself Aakib Khan</h1>
 <h3 align="center">I am working as Cloud and DevOps engineer</h3>
