@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my Social and Projects account--> [Link tree](https://linktr.ee/techwithaakib?utm_source=linktree_profile_share&ltsid=f9a340d3-bbe6-48f6-8ad6-f691572b599f)
 
-- 📝 I regularly write articles on--> [aakibkhan1.medium.com](aakibkhan1.medium.com)
+- 📝 I regularly write articles on--> [aakibkhan1.medium.com](https://aakibkhan1.medium.com/)
 
 - 📫 How to reach me--> **techwithaakib@gmail.com**
 
