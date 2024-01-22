@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakibgithuber&label=Profile%20views&color=0e75b6&style=flat" alt="aakibgithuber" /> </p>
 
-- 👨‍💻 All of my social and projects account [Link tree](https://linktr.ee/techwithaakib?utm_source=linktree_profile_share&ltsid=f9a340d3-bbe6-48f6-8ad6-f691572b599f)
+- 👨‍💻 All of my Social and Projects account--> [Link tree](https://linktr.ee/techwithaakib?utm_source=linktree_profile_share&ltsid=f9a340d3-bbe6-48f6-8ad6-f691572b599f)
 
-- 📝 I regularly write articles on [aakibkhan1.medium.com](aakibkhan1.medium.com)
+- 📝 I regularly write articles on--> [aakibkhan1.medium.com](aakibkhan1.medium.com)
 
-- 📫 How to reach me **techwithaakib@gmail.com**
+- 📫 How to reach me--> **techwithaakib@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
