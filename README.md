@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/aakib-khan-29b7aa252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakib khan" height="30" width="40" /></a>
 <a href="https://instagram.com/aakibkhan_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakibkhan_8" height="30" width="40" /></a>
-<a href="www.youtube.com/@aakibkhan4299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the cloud boy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@aakibkhan4299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the cloud boy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
