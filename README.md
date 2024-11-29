@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, Myself Aakib Khan</h1>
 <h3 align="center">I am working as Cloud and DevOps engineer</h3>
 
-<img align="right" alt="let's deploy anything you want" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="let's deploy anything you want" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakibgithuber&label=Profile%20views&color=0e75b6&style=flat" alt="aakibgithuber" /> </p>
 
